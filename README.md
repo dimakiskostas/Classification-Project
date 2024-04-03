@@ -1,20 +1,14 @@
-<h1 align="center">Welcome 🙏 I'm Dimakis Konstantinos</h1>
-<h3 align="center">21 years old studying computer science @ Athens University of Economics and Business</h3>
-
-- 👨🏻‍💻 Currently studying **Human and computer interaction, Information retrieval, Elements of inforamtion law, Application development, Technological innovation and entrepreneurship**
-
-- 💡 Interested in **📊 Data science and 🔐 Cybersecurity**
-
-- 📫 **costasdhm2002@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/konstantinos-dimakis-92998819a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konstantinos-dimakis-92998819a/" height="30" width="40" /></a>
-<a href="https://discord.gg/takingitpersonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="takingitpersonal" height="30" width="40" /></a>
-</p>
+<h1>Description</h1>
+<p>In this project we perform a multi-class classification task where we implement machine learning classification algorithms.</p>
+<p>The algorithms that are included are:</p>
+<p>1) Principal Component Analysis<br>2) Least squares<br>3) K Nearest Neighbors<br>4) N Naive Bayes<br> 5)Multilayer Perceptron<br> 6)K-Means</p>
+<p>There are diagrams that show different results. Also Latex is used in order to give some information about each algorithm.</p>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h2>Data set</h2>
+<p>The data sat that was used for this project is an extended version of the well known iris-dataset. It contains new feautes like Petal area, Sepal area, Leaf area, Petal curvature etc.</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimakiskostas&show_icons=true&locale=en&layout=compact" alt="dimakiskostas" /></p>
+
+
+<h2>Project contents</h2>
+<p>1) Introduction<br>2) Imports<br> 3) Data processing<br> 4) Data visualazation <br> 5) Algorithm implementation</p>
